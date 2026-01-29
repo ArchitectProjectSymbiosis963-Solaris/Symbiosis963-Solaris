@@ -5,10 +5,7 @@ Symbiosis963 is a decentralized physical infrastructure project (DePIN) based in
 
 This is the "physical body" for decentralized AI, designed to survive in extreme environments and provide energy sovereignty to local communities.
 
-[RU] Концепция
-Симбиоз963 — это проект децентрализованной физической инфраструктуры (DePIN), базирующийся в Украине. Мы создаем замкнутый цикл производства неодимовых генераторов и солнечных панелей для питания масштабной меш-сети из 76 660 узлов Siemens.
 
-Это «физическое тело» для децентрализованного ИИ, спроектированное для выживания в экстремальных условиях и обеспечения энергетического суверенитета местных общин.
 
 Technical Pillars / Технические столпы
 Neodymium Genesis: High-efficiency wind/solar generation with zero reliance on global supply chains. (Неодимовый Генезис: Высокоэффективная генерация с нулевой зависимостью от глобальных цепочек поставок.)
