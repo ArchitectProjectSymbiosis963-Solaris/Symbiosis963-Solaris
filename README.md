@@ -103,4 +103,6 @@ To all stakeholders interested in the project, we present the roadmap for Phase 
   I am prepared to provide letters of guarantee and commitments for open and unlimited access to resources from the Ukrainian state. I can also present memoranda of intent with landowners in the Kirovohrad and Zhytomyr regions for those ready to invest upwards of 200 million USD. These will be provided only after in-person negotiations. All memoranda and contracts will be based on a 40/60 equity split
   
 
+
+...
   
