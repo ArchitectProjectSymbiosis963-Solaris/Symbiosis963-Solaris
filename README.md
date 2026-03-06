@@ -142,14 +142,14 @@ Status: Prototyping (Phase 1: Ambient Environment)
 Objective: Achieving a practical efficiency of 92.6% – 94.1% within standard 50 Hz industrial power grids.
 
 Technology Overview
-Project Solaris is based on a fundamental redesign of magnetic flux interaction geometry. Moving away from traditional circular architectures, Solaris utilizes a dual-elliptic ............. for both the stator and the rotor.
+Project Solaris is based on a fundamental redesign of magnetic flux interaction geometry. Moving away from traditional circular architectures, Solaris utilizes a  ............. for both the stator and the rotor.
 
 Key Innovations:
 Geometric Lenz Compensation: The ...............  profile facilitates an exponential decoupling of the magnetic bond at the peak of counter-electromotive force (Back-EMF). This physically reduces the input torque required without altering the electrical phase logic.
 
 Titanium Resonance Core: The use of Grade 5 Titanium (Ti-6Al-4V) eliminates parasitic eddy currents within the rotor body while ensuring extreme structural stability at high RPMs.
 
-Magnetic Modular Array: Integration of NdFeB / SmCo segments into the elliptic geometry to form a highly directed magnetic induction vector.
+Magnetic Modular Array: Integration of NdFeB / SmCo segments into ........... to form a highly directed magnetic induction vector.
 
 Universal 50 Hz Compatibility: The system is fully compatible with classic three-phase copper windings and standard industrial controllers (ranging from 24V DC to 380V AC).
 
