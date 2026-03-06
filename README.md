@@ -137,7 +137,35 @@ Following the implementation of the first phase of the Symbiosis 963 Solaris pro
 963
 
 
-  
+  Project Solaris: Next-Generation Synchronous Machine ...........
+Status: Prototyping (Phase 1: Ambient Environment)
+Objective: Achieving a practical efficiency of 92.6% – 94.1% within standard 50 Hz industrial power grids.
+
+Technology Overview
+Project Solaris is based on a fundamental redesign of magnetic flux interaction geometry. Moving away from traditional circular architectures, Solaris utilizes a dual-elliptic ............. for both the stator and the rotor.
+
+Key Innovations:
+Geometric Lenz Compensation: The ...............  profile facilitates an exponential decoupling of the magnetic bond at the peak of counter-electromotive force (Back-EMF). This physically reduces the input torque required without altering the electrical phase logic.
+
+Titanium Resonance Core: The use of Grade 5 Titanium (Ti-6Al-4V) eliminates parasitic eddy currents within the rotor body while ensuring extreme structural stability at high RPMs.
+
+Magnetic Modular Array: Integration of NdFeB / SmCo segments into the elliptic geometry to form a highly directed magnetic induction vector.
+
+Universal 50 Hz Compatibility: The system is fully compatible with classic three-phase copper windings and standard industrial controllers (ranging from 24V DC to 380V AC).
+
+Technical Specifications (Prototype №1):
+Input Voltage: 24 V (DC) / 220-380 V (AC).
+
+Output Frequency: Stable 50 Hz.
+
+Materials: Grade 5 Titanium, Electrical Steel 2212, Copper PETV-2, Neodymium N52.
+
+Cooling: Atmospheric (Natural convection + Integrated impeller).
+
+Scalability:
+The technology is engineered for mass production using standard laser-cutting for steel and 5-axis CNC machining for titanium. Solaris is open for collaboration with industrial partners in the autonomous energy and high-precision machinery sectors.
+
+ We do not break the laws of physics. We optimize the geometry of the space in which they operate.
 
 
 ...
